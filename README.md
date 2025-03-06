@@ -1,4 +1,4 @@
-# Conversion Dashboard
+# Conversion Dashboard (Study Project)
 ## Project Description
 Dashboard for analyzing conversion rates from visits to registrations. Data is retrieved via an API, processed, and visualized using Python.
 ## Repository Structure
