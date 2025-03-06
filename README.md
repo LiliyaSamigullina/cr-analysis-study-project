@@ -1,6 +1,10 @@
 # Conversion Dashboard
 ## Project Description
 Dashboard for analyzing conversion rates from visits to registrations. Data is retrieved via an API, processed, and visualized using Python.
+## Repository Structure
+- `charts_project.ipynb` - Notebook with calculations and visualizations
+- `charts/` - PNG charts
+- `presentation.pdf` - Presentation with results and outcomes
 ## Technology Stack
 - Python
 - Pandas
